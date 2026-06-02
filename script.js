@@ -55,6 +55,36 @@ const SCOUT_DATA = {
     <p>. VALOR: PICK DE LOTERIA</p>
   `,
 
+  "AARON NKRUMAH": `
+    <h3>SCOUTING REPORT</h3>
+    <p>. MUY ALTO PARA 2; FALTA POTENCIA</p>
+    <p>. SUMAMENTE AGIL; POCO EXPLOSIVO</p>
+    <p>. TIRO IRREGULAR; 32% EN 3P EN 4 AÑOS</p>
+    <p>. VIENE DE SU MEJOR AÑO DE TRES: 35%</p>
+    <p>. BUEN PASADOR, SIN SER BASE NATURAL</p>
+    <p>. LIVIANO PARA DEFINIR EN LA PINTURA</p>
+    <p>. ESPECIALISTA DEFENSIVO; MUY INTENSO</p>
+    <p>. PRESIONA Y GENERA PERDIDAS: 2.8 STL</p>
+    <p>. BUEN REBOTERO; SUMA TAPONES</p>
+    <p>. LIMITADO POR SU FALTA DE KILOS</p>
+    <p>. VALOR: 2° RONDA/UNDRAFTED</p>
+  `,
+
+  "NICK BOYD": `
+    <h3>SCOUTING REPORT</h3>
+    <p>. BASE BAJO, LIVIANO; BRAZOS CORTOS</p>
+    <p>. VELOZ PERO NO TAN EXPLOSIVO</p>
+    <p>. ANOTADOR; CREATIVO, SLASHER</p>
+    <p>. BUEN MANEJO; AGRESIVO PARA ATACAR</p>
+    <p>. ANOTA SEGUIDO EN TRANSICION</p>
+    <p>. BUEN USO DE LA FLOTADORA</p>
+    <p>. TRIPLERO CORRECTO: 37% EN 5 AÑOS</p>
+    <p>. MAS ANOTACION QUE PASE; POCAS TOV</p>
+    <p>. COMPITE Y PRESIONA EN DEFENSA</p>
+    <p>. TOTALMENTE LIMITADO POR FISICO</p>
+    <p>. VALOR: UNDRAFTED</p>
+  `,
+
   "NICK MARTINELLI": `
     <h3>SCOUTING REPORT</h3>
     <p>. CARACTERISTICAS DE 4/5, ALTURA DE 3</p>
@@ -873,7 +903,7 @@ const bottomRight = document.getElementById("bottom-right");
 const scoutTextEl = document.getElementById("scout-text");
 
 const columns = [[], [], []];
-players.forEach((p, i) => columns[i % 3].push(p));
+players.forEach(p => columns[p.column].push(p));
 
 const headerGradients = [
   "linear-gradient(90deg,#ffd700,#ffec7a)",
