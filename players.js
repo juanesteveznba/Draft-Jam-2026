@@ -401,6 +401,22 @@ const players = [
   shotStats: { fastbreak:19, pintura:37, media:73, "3P ncaa":80, "3P nba":75, libres:37 }
 },
 {
+  name: "MELEEK THOMAS",
+  height: "1.94 M",
+  position: "GUARD",
+  column: 0,
+  comp: "ISAIAH JOE/QUICKLEY",
+  country: "USA",
+  age: "20",
+  team: "ARKANSAS",
+  ataque: "<br><span class='gap'></span>- 15.6 PPG | 23.6 USG% | 30.5 MIN<br>- 43.5 FG% |  41.6 3P% | 84.3 FT%<br>- 2.5 ASIS | 1.0 TOV",
+  defensa: "<br><span class='gap'></span>- 3.8 REB | 2.1 PF<br>- 1.5 STL | 0.2 BLK<br>- 100.0 D-RAT | 1.79 D-BPR",
+  img: "Meleek.png",
+  stats: { atletico:30, tiro:74, pase:25, creacion:36, defensa:33, fisico:15 },
+  defenseStats: { altura:13, wingspan:17, peso:13, rebote:35, robos:75, tapones:20 },
+  shotStats: { fastbreak:69, pintura:39, media:69, "3P ncaa":87, "3P nba":35, libres:49 }
+},
+{
   name: "ALEX KARABAN",
   height: "2.04 M",
   position: "ALERO",
@@ -687,6 +703,22 @@ name: "RYAN CONWELL",
   stats: { atletico:43, tiro:20, pase:5, creacion:5, defensa:85, fisico:75 },
   defenseStats: {altura:89, wingspan:77, peso:31, rebote:51, robos:76, tapones:100 },
   shotStats: { fastbreak:11, pintura:61, media:5, "3P ncaa":21, "3P nba":68, libres:23 }
+},
+{
+  name: "TOBE AWAKA",
+  height: "2.07 M",
+  position: "PIVOT",
+  column: 2,
+  comp: "REGGIE EVANS",
+  country: "USA",
+  age: "22",
+  team: "ARIZONA",
+  ataque: "<br><span class='gap'></span>- 9.3 PPG | 19.5 USG% | 20.8 MIN<br>- 58.7 FG% |  41.7 3P% | 64.2 FT%<br>- 0.8 ASIS | 1.0 TOV",
+  defensa: "<br><span class='gap'></span>- 9.1 REB | 2.7 PF<br>- 0.4 STL | 0.6 BLK<br>- 93.9 D-RAT | 2.51 D-BPR",
+  img: "Awaka.png",
+  stats: { atletico:38, tiro:25, pase:15, creacion:25, defensa:36, fisico:60 },
+  defenseStats: {altura:23, wingspan:50, peso:96, rebote:98, robos:20, tapones:17 },
+  shotStats: { fastbreak:37, pintura:51, media:13, "3P ncaa":38, "3P nba":5, libres:55 }
 },
 {
  name: "JA'KOBI GILLESPIE",
