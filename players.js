@@ -257,6 +257,22 @@ const players = [
   shotStats: { fastbreak:53, pintura:64, media:88, "3P ncaa":30, "3P nba":46, libres:56 }
 },
 {
+  name: "KARIM LOPEZ",
+  height: "2.07 M",
+  position: "ALERO",
+  column: 1,
+  comp: "FRANZ WAGNER -",
+  country: "MEXICO",
+  age: "19",
+  team: "NZ BREAKERS",
+  ataque: "<br><span class='gap'></span>- 11.9 PPG | 19.5 USG% | 25.6 MIN<br>- 49.4 FG% |  32.2 3P% | 73.9 FT%<br>- 1.9 ASIS | 1.5 TOV",
+  defensa: "<br><span class='gap'></span>- 6.1 REB | 2.9 PF<br>- 1.2 STL | 1.0 BLK<br>",
+  img: "Lopez.png",
+  stats: { atletico:37, tiro:30, pase:40, creacion:50, defensa:35, fisico:70 },
+  defenseStats: { altura:75, wingspan:62, peso:66, rebote:80, robos:80, tapones:75 },
+  shotStats: { fastbreak:40, pintura:65, media:10, "3P fiba":25, "3P nba":30, libres:30 }
+},
+{
   name: "NATE AMENT",
   height: "2.11 M",
   position: "ALERO",
@@ -335,6 +351,22 @@ const players = [
   stats: { atletico:20, tiro:43, pase:82, creacion:39, defensa:46, fisico:38 },
   defenseStats: { altura:46, wingspan:8, peso:92, rebote:88, robos:88, tapones:59 },
   shotStats: { fastbreak:63, pintura:28, media:51, "3P ncaa":57, "3P nba":63, libres:67 }
+},
+{
+  name: "ALLEN GRAVES",
+  height: "2.06 M",
+  position: "ALA PIVOT",
+  column: 2,
+  comp: "CAM BOOZER -",
+  country: "USA",
+  age: "20",
+  team: "SANTA CLARA",
+  ataque: "<br><span class='gap'></span>- 11.8 PPG | 21.9 USG% | 22.6 MIN<br>- 51.2 FG% |  41.3 3P% | 75.0 FT%<br>- 1.8 ASIS | 0.7 TOV",
+  defensa: "<br><span class='gap'></span>- 6.5 REB | 3.1 PF<br>- 1.9 STL | 0.9 BLK<br>- 104.6 D-RAT | 2.07 D-BPR",
+  img: "Graves.png",
+  stats: { atletico:10, tiro:75, pase:75, creacion:50, defensa:20, fisico:15 },
+  defenseStats: { altura:8, wingspan:12, peso:8, rebote:53, robos:100, tapones:38 },
+  shotStats: { fastbreak:78, pintura:29, media:32, "3P ncaa":68, "3P nba":85, libres:60 }
 },
 {
  name: "LABARON PHILON",
