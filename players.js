@@ -545,6 +545,22 @@ const players = [
   shotStats: { fastbreak:85, pintura:48, media:77, "3P ncaa":49, "3P nba":23, libres:60 }
 },
 {
+ name: "NOAM YAACOV",
+  height: "1.89 M",
+  position: "BASE",
+  column: 0,
+  comp: "CARLOS ARROYO",
+  country: "ISRAEL",
+  age: "21",
+  team: "OOSTENDE",
+  ataque: "<br><span class='gap'></span>- 17.3 PPG | 31.2 USG% | 25.2 MIN<br>- 46.9 FG% |  38.0 3P% | 77.7 FT%<br>- 5.9 ASIS | 2.5 TOV",
+  defensa: "<br><span class='gap'></span>- 3.8 REB | 2.6 PF<br>- 1.0 STL | 0.1 BLK<br>",
+  img: "Yaacov.png",
+  stats: { atletico:60, tiro:30, pase:68, creacion:40, defensa:25, fisico:17 },
+  defenseStats: {altura:36, wingspan:4, peso:43, rebote:100, robos:40, tapones:15 },
+  shotStats: { fastbreak:35, pintura:30, media:55, "3P fiba":20, "3P nba":15, libres:45 }
+},
+{
   name: "JADEN BRADLEY",
   height: "1.93 M",
   position: "BASE",
@@ -591,6 +607,22 @@ const players = [
   stats: { atletico:71, tiro:20, pase:5, creacion:5, defensa:60, fisico:65 },
   defenseStats: { altura:73, wingspan:39, peso:35, rebote:20, robos:20, tapones:59 },
   shotStats: { fastbreak:3, pintura:49, media:48, "3P ncaa":30, "3P nba":29, libres:18 }
+},
+{
+name: "SETH TRIMBLE",
+  height: "1.90 M",
+  position: "BASE",
+  column: 0,
+  comp: "JORDAN GOODWIN",
+  country: "USA",
+  age: "22",
+  team: "NORTH CAROLINA",
+  ataque: "<br><span class='gap'></span>- 14.0 PPG | 22.0 USG% | 32.5 MIN<br>- 47.1 FG% |  28.6 3P% | 66.7 FT%<br>- 3.0 ASIS | 1.4 TOV",
+  defensa: "<br><span class='gap'></span>- 3.8 REB | 2.0 PF<br>- 1.3 STL | 0.2 BLK<br>- 101.9 D-RAT | 0.99 D-BPR",
+  img: "Trimble.png",
+  stats: { atletico:90, tiro:10, pase:15, creacion:30, defensa:65, fisico:42 },
+  defenseStats: {altura:36, wingspan:96, peso:71, rebote:40, robos:43, tapones:57 },
+  shotStats: { fastbreak:97, pintura:70, media:24, "3P ncaa":14, "3P nba":1, libres:32 }
 },
 {
 name: "QUADIR COPELAND",
@@ -1087,6 +1119,22 @@ name: "RYAN CONWELL",
   stats: { atletico:40, tiro:30, pase:15, creacion:20, defensa:25, fisico:80},
   defenseStats: {altura:75, wingspan:96, peso:75, rebote:77, robos:21, tapones:28 },
   shotStats: { fastbreak:41, pintura:37, media:47, "3P ncaa":34, "3P nba":52, libres:45 }
+},
+{
+ name: "AIDAN MAHANEY",
+  height: "1.92 M",
+  position: "GUARD",
+  column: 0,
+  comp: "RYAN ARCIDIACONO",
+  country: "USA",
+  age: "23",
+  team: "UC SANTA BARBARA",
+  ataque: "<br><span class='gap'></span>- 14.9 PPG | 22.4 USG% | 33.6 MIN<br>- 43.5 FG% |  38.5 3P% | 80.7 FT%<br>- 2.7 ASIS | 1.3 TOV",
+  defensa: "<br><span class='gap'></span>- 1.9 REB | 2.4 PF<br>- 0.8 STL | 0.1 BLK<br>- 109.4D-RAT | -1.00 D-BPR",
+  img: "Mahaney.png",
+  stats: { atletico:10, tiro:60, pase:20, creacion:15, defensa:2, fisico:30},
+  defenseStats: {altura:46, wingspan:36, peso:32, rebote:3, robos:3, tapones:15 },
+  shotStats: { fastbreak:7, pintura:26, media:69, "3P ncaa":64, "3P nba":64, libres:35 }
 },
 {
   name: "NICK MARTINELLI",
