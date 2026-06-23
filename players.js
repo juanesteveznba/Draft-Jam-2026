@@ -705,6 +705,22 @@ name: "QUADIR COPELAND",
   shotStats: { fastbreak:99, pintura:83, media:52, "3P ncaa":40, "3P nba":4, libres:54 }
 },
 {
+  name: "MALIQUE LEWIS",
+  height: "2.04 M",
+  position: "ALERO",
+  column: 1,
+  comp: "JORDAN WALSH",
+  country: "TRINIDAD Y TOBAGO",
+  age: "21",
+  team: "SOUTH EAST MELBOURNE",
+  ataque: "<br><span class='gap'></span>- 7.3 PPG | 13.3 USG% | 21.2 MIN<br>- 45.2 FG% |  37.5 3P% | 82.6 FT%<br>- 2.0 ASIS | 0.7 TOV",
+  defensa: "<br><span class='gap'></span>- 4.4 REB | 2.4 PF<br>- 1.1 STL | 0.6 BLK<br>",
+  img: "Malique.png",
+  stats: { atletico:31, tiro:38, pase:55, creacion:7, defensa:68, fisico:55 },
+  defenseStats: {altura:50, wingspan:78, peso:53, rebote:68, robos:49, tapones:72 },
+  shotStats: { fastbreak:33, pintura:20, media:10, "3P fiba":40, "3P nba":34, libres:20 }
+},
+{
   name: "VSEVOLOD ISHCHENKO",
   height: "2.04 M",
   position: "ALERO",
